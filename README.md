@@ -27,6 +27,7 @@ To set up the project locally, follow these steps:
 ## Demo
 
 ![Screenshot](/src/assets/demo.png)
+![Screenshot](/src/assets/demo2.png)
 
 ## API Consumption
 
