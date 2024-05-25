@@ -1,0 +1,6 @@
+{
+  "/stores": "/stores",
+  "/stores?category=:category": "/stores?category=:category",
+  "/stores?_sort=name": "/stores?_sort=name",
+  "/categories": "/categories"
+}
