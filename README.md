@@ -28,6 +28,7 @@ To set up the project locally, follow these steps:
 
 ![Screenshot](/src/assets/demo.png)
 ![Screenshot](/src/assets/demo2.png)
+![Watch Demo Video](/src/assets/Assignment%20Submission.mp4)
 
 ## API Consumption
 
